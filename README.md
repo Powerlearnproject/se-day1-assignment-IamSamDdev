@@ -133,7 +133,7 @@ Importance of Prompt Engineering in AI Interactions
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
  Vague Prompt:
-"Tell me about history."
+"Tell me about history."  
 
 Improved Prompt:
 "Provide an overview of the Industrial Revolution, including its causes, key inventions, and impact on modern society."
